@@ -2,12 +2,12 @@
 title: >
  Graph API を使用したメッセージ トレースのサポートにおけるパブリック プレビューのご案内
 date: 2026-01-22
-lastupdate: 2026-02-26
+lastupdate: 2026/04/16
 tags: Exchange Online
 categories:
 ---
 
-<span style="background-color: yellow; font-weight: bold;">2026/2/6 編集: 本機能は正式リリース (GA: Generally Available) されました。オンボーディングに関する詳細な手順は、[こちら](https://learn.microsoft.com/exchange/monitoring/trace-an-email-message/graph-api-message-trace) に纏めました。</span>
+<span style="background-color: yellow; font-weight: bold;">2026/2/6 編集: 本機能はマルチテナント (WW) 環境で正式リリース (GA: Generally Available) されました。オンボーディングに関する詳細な手順は、[こちら](https://learn.microsoft.com/exchange/monitoring/trace-an-email-message/graph-api-message-trace) に纏めました。</span>
 
 ※ この記事は、[Message Trace Support Using Graph API is now in Public Preview](https://techcommunity.microsoft.com/blog/exchange/message-trace-support-using-graph-api-is-now-in-public-preview/4488587) の抄訳です。最新の情報はリンク先をご確認ください。この記事は Microsoft 365 Copilot および GitHub Copilot を使用して抄訳版の作成が行われています。
 
@@ -31,7 +31,7 @@ Graph API を使用した新しいメッセージトレース サポートは、
 ## 移行ガイダンスおよび廃止スケジュール
 現在、Reporting Webservice を使用したメッセージ トレースを利用している場合は、2026 年 4 月 6 日までに Graph API を使用したメッセージ トレースへ移行してください。
 
-**Reporting Webservice を使用した Message Trace および Message Trace Detail のサポートは、2026 年 4 月 8 日から非推奨 (廃止開始) となります。**
+**Reporting Webservice を使用した Message Trace および Message Trace Detail のサポートは、マルチテナント (WW) 環境を対象に、2026 年 4 月 8 日から非推奨 (廃止開始) となります。その他のクラウド環境では、廃止スケジュールが異なります。**
 
 なお、Exchange Online に新規オンボーディングされるすべての組織では、移行作業の一環として、既定では Reporting Webservice を使用したメッセージ トレースへのアクセスはすでに提供されていません。
 
