@@ -25,7 +25,7 @@ Exchange Server 2016 と Exchange Server 2019 は、[2025 年 10 月にサポー
 
 ## これが意味すること
 
-- ESU は、Exchange Server 2016/2019 における<i>[サポート ライフサイクル](https://learn.microsoft.com/lifecycle/) の延長ではありません</i>。これらのサーバーは引き続きサポート対象外となるため、サポート ケースを起票することはできません。(ESU 期間中に ESU 契約組織向けに提供された更新プログラムに起因する事象のみはサポート対象です。)
+- ESU は、Exchange Server 2016/2019 における<i>[サポート ライフサイクル](https://learn.microsoft.com/lifecycle/) の延長ではありません</i>。これらのサーバーは引き続きサポート対象外となるため、サポート ケースを起票することはできません。(ESU 期間中に、ESU 契約組織向けに提供された更新プログラムに起因する事象のみがサポート対象です。)
 - 第 2 期 ESU は、2026 年 10 月末までに Exchange SE への移行完了が難しい組織向けに、Critical および Important のセキュリティ更新 ([Microsoft Security Response Center (MSRC) の重大度定義](https://www.microsoft.com/msrc/security-update-severity-rating-system) に基づく) を提供しうる仕組みです。リリース必要なセキュリティ更新プログラム（SU）がある場合のみ、ESU 契約組織に<i>限定して</i>提供されます。
 - 第 2 期期間中に、必ずしもセキュリティ更新プログラム（SU）がリリースされるとは限りません。Exchange Server SU は [毎月必ず公開されるものではなく](https://learn.microsoft.com/exchange/new-features/build-numbers-and-release-dates)、Critical/Important な変更がある場合に公開されます。提供の有無は、毎月の Patch Tuesday に ESU 参加組織へ通知されます。
 - 第 2 期 Exchange ESU の有効期限は 2026 年 10 月末です。
