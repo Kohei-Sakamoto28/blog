@@ -1,12 +1,15 @@
 ---
 title: 'Exchange 2016 / 2019 向け拡張セキュリティ更新プログラムを発表'
 date: 2025-7-17 11:00:00
-lastupdate:
+lastupdate: 2026/04/16
 tags:
 - Exchange
 ---
 
 ※ この記事は、[Announcing Exchange 2016 / 2019 Extended Security Update program](https://techcommunity.microsoft.com/blog/exchange/announcing-exchange-2016--2019-extended-security-update-program/4433495) の抄訳です。最新の情報はリンク先をご確認ください。この記事は Microsoft 365 Copilot および GitHub Copilot を使用して抄訳版の作成が行われています。
+
+<p style="background-color: lightgreen"><b>2026/4/15 編集:</b> 本 ESU プログラムの第 2 期が発表されました。第 2 期は別途購入が必要です。
+2026 年 5 月から 10 月の間に組織で Exchange ESU が必要な場合は、ESU を再購入いただく必要があります。詳細は <a href="https://techcommunity.microsoft.com/blog/exchange/announcing-period-2-exchange-20162019-extended-security-update-esu-program/4511603">Announcing Period 2 Exchange 2016/2019 Extended Security Update (ESU) program | Microsoft Community</a> をご確認ください。</p>
 
 Exchange 2016 および 2019 は [2025 年 10 月にサポートが終了します](/blog/t-6-months-exchange-server-2016-and-exchange-server-2019-end-of-support)。一部のお客様からは、Exchange Subscription Edition (SE) への移行を開始しているものの、移行完了までにもう数か月間、Exchange 2016 / 2019 サーバー向けのセキュリティ更新プログラム (SU) が必要になる場合がある、というご要望をいただいています。
 
