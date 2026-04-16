@@ -11,7 +11,7 @@ tags:
 Exchange Server 2016 と Exchange Server 2019 は、[2025 年 10 月にサポートが終了](https://techcommunity.microsoft.com/blog/exchange/t-6-months-exchange-server-2016-and-exchange-server-2019-end-of-support/4403017)しました。
 一方で、Exchange Subscription Edition (SE) への移行完了に向けて、追加の時間を必要とする組織が存在するため、2025 年 10 月 ～ 2026 年 4 月 (第 1 期) の期間において [Extended Security Update (ESU) プログラム](/blog/announcing-exchange-2016--2019-extended-security-update-program/) に加入されている組織があります。
 
-2026 年 4 月末が近づく中で、Exchange 2016/2019 から Exchange SE への移行完了には、さらに時間が必要であるという声が一部の組織から寄せられました。
+2026 年 4 月末が近づく中で、Exchange 2016/2019 から Exchange SE への移行完了には、さらに時間が必要であるという要望が一部の組織から寄せられました。
 
 それに伴い、今回、**Exchange Server ESU プログラムの 第 2 期 が発表されました。第 2 期の期間は 2026 年 5 月から 2026 年 10 月末までの 6 か月です。** <i>これ以降の延長予定はありません。</i>
 
