@@ -9,7 +9,7 @@ tags:
 ※ この記事は、[Announcing Period 2 Exchange 2016/2019 Extended Security Update (ESU) program](https://techcommunity.microsoft.com/blog/exchange/announcing-period-2-exchange-20162019-extended-security-update-esu-program/4511603) の抄訳です。最新の情報はリンク先をご確認ください。この記事は Microsoft 365 Copilot および GitHub Copilot を使用して抄訳版の作成が行われています。
 
 Exchange Server 2016 と Exchange Server 2019 は、[2025 年 10 月にサポートが終了](https://techcommunity.microsoft.com/blog/exchange/t-6-months-exchange-server-2016-and-exchange-server-2019-end-of-support/4403017)しています。
-一方で、Exchange Subscription Edition (SE) への移行完了に向けて追加の時間が必要により、2025 年 10 月 ～ 2026 年 4 月 (第 1 期) の期間において [Extended Security Update (ESU) プログラム](/blog/announcing-exchange-2016--2019-extended-security-update-program/) に加入されている組織があります。
+一方で、Exchange Subscription Edition (SE) への移行完了に向けて追加の時間が必要のため、2025 年 10 月 ～ 2026 年 4 月 (第 1 期) の期間において [Extended Security Update (ESU) プログラム](/blog/announcing-exchange-2016--2019-extended-security-update-program/) に加入されている組織があります。
 
 2026 年 4 月末が近づく中で、Exchange 2016/2019 から Exchange SE への移行完了には、さらに時間が必要であるという声が一部の組織から寄せられました。
 
