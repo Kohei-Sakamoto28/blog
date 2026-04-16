@@ -1,6 +1,6 @@
 ---
 title: "Exchange Server 2016/2019 向け ESU プログラム 第 2 期 提供開始のお知らせ"
-date: 2026/04/16
+date: 2026/04/16 00:00
 lastupdate:
 tags:
 - Exchange
