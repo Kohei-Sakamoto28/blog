@@ -1,7 +1,7 @@
 ---
 title: 'Exchange Online テナントの外部送信メール制限の導入'
 date: 2025-02-26
-lastupdate: 2026-04-07
+lastupdate: 2026-04-23
 tags: Exchange Online
 ---
 ※ この記事は、[Introducing Exchange Online Tenant Outbound Email Limits](https://techcommunity.microsoft.com/blog/exchange/introducing-exchange-online-tenant-outbound-email-limits/4372797) の抄訳です。最新の情報はリンク先をご確認ください。この記事は Microsoft 365 Copilot および GitHub Copilot を使用して抄訳版の作成が行われています。
@@ -156,7 +156,7 @@ TERRL はメール ライセンスの総数に基づきます。
 Microsoft Defender ポータルの「上位送信者と受信者」レポート (Microsoft Defender &gt; レポート &gt; Email & collaboration reports &gt; 上位送信者と受信者) を使用するか、EAC のメッセージ トレースを使用して上位送信者のリストを集計できます。また、今年後半にテナント外部受信者レート レポートに上位送信者リストを追加することも検討しています。
 
 **レポートに「Enforcement is Disabled」と表示されるのはどういう意味ですか？**  
-「Enforcement is Disabled」と表示されている場合、たとえレポートに TERRL クォータを超えて外部受信者がブロックされていると表示されていても、実際にはブロックは行われていません。これは、ロールアウト スケジュールの初期段階で、まだ適用が有効になっていないテナントに対して表示されます (上記のロールアウト スケジュールを参照)。5 月までにすべてのテナントに対して機能が完全に展開され有効になると、「Enforcement」の項目は通常「Enabled」と表示され、 TERRL クォータを超えた場合にはブロックが行われるようになります。
+「Enforcement is Disabled」と表示されている場合、たとえレポートに TERRL クォータを超えて外部受信者がブロックされていると表示されていても、実際にはブロックは行われていません。これは、ロールアウト スケジュールの初期段階で、まだ適用が有効になっていないテナントに対して表示されます (上記のロールアウト スケジュールを参照)。すべてのテナントに対して機能が完全に展開され有効になると、「Enforcement」の項目は通常「Enabled」と表示され、 TERRL クォータを超えた場合にはブロックが行われるようになります。
 
 **送信メールの量が TERRL クォータを超えた場合、通知やアラートはありますか？**  
 現時点ではありません。今年後半に、送信メールの量が TERRL クォータの 80 % を超えた際に管理者に通知するシステム アラートを追加することを計画しています。
