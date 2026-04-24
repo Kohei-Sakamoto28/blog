@@ -9,7 +9,7 @@ tags:
 
 <p style="background: #66FF99">本トピックの最新情報については、<a href=https://techcommunity.microsoft.com/blog/exchange/announcing-general-availability-of-inbound-smtp-dane-with-dnssec-for-exchange-on/4281292>Announcing General Availability of Inbound SMTP DANE with DNSSEC for Exchange Online</a> をご覧ください。</p>
 
-[以前の発表](https://techcommunity.microsoft.com/t5/exchange-team-blog/support-of-dane-and-dnssec-in-office-365-exchange-online/ba-p/1275494)の通り、2024 年 7 月に Exchange Online メール フローの受信 SMTP DANE with DNSSEC のパブリック プレビューをリリースします。これにより、Exchange Online の SMTP DANE with DNSSEC サポートが完成します。送信 SMTP DANE with DNSSEC は [2022 年 3 月](https://techcommunity.microsoft.com/t5/exchange-team-blog/releasing-outbound-smtp-dane-with-dnssec/ba-p/3100920)からサポートされています。
+[以前の発表](https://techcommunity.microsoft.com/t5/exchange-team-blog/support-of-dane-and-dnssec-in-office-365-exchange-online/ba-p/1275494) の通り、2024 年 7 月に Exchange Online メール フローの受信 SMTP DANE with DNSSEC のパブリック プレビューをリリースします。これにより、Exchange Online の SMTP DANE with DNSSEC サポートが完成します。送信 SMTP DANE with DNSSEC は [2022 年 3 月](https://techcommunity.microsoft.com/t5/exchange-team-blog/releasing-outbound-smtp-dane-with-dnssec/ba-p/3100920) からサポートされています。
 
 SMTP DANE は、TLS によるメール通信のセキュリティ保護に使用される証明書の正当性を DNS で検証し、TLS ダウングレード攻撃から保護するセキュリティ プロトコルです。DNSSEC は DNS の拡張機能セットで、DNS レコードの暗号的な検証を提供し、DNS スプーフィングや DNS に対する中間者攻撃を防止します。
 
