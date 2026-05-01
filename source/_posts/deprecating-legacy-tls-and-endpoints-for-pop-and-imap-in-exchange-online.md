@@ -7,7 +7,7 @@ tags: Exchange Online
 
 ※ この記事は、[Deprecating Legacy TLS and Endpoints for POP and IMAP in Exchange Online](https://techcommunity.microsoft.com/blog/exchange/deprecating-legacy-tls-and-endpoints-for-pop-and-imap-in-exchange-online/4515201) の抄訳です。最新の情報はリンク先をご確認ください。この記事は Microsoft 365 Copilot および GitHub Copilot を使用して抄訳版の作成が行われています。
 
-インターネットのセキュリティは絶えず進化しており、古い暗号化プロトコルはもはや現在の脅威環境に求められる保護を提供できなくなっています。お客様のメール環境をセキュアに保つための継続的な取り組みの一環として、Exchange Online 接続の最新化に向けたさらなる一歩を踏み出しています。
+インターネットのセキュリティは絶えず進化しており、古い暗号化プロトコルはもはや現在のセキュリティ要件を満たすことができなくなっています。お客様のメール環境をセキュアに保つための継続的な取り組みの一環として、Exchange Online 接続の最新化を引き続き進めています。
 
 #### 変更内容
 
